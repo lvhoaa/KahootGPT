@@ -4,7 +4,7 @@ import pyautogui
 from openai import OpenAI
 
 pytesseract.pytesseract.tesseract_cmd =r'C:\Program Files\Tesseract-OCR\tesseract.exe'
-client = OpenAI(api_key="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")
+client = OpenAI(api_key="")
 
 def run_all():
     # Button coordinates -- store top-left and bottom-right that defines the BOX 
