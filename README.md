@@ -11,6 +11,7 @@
 
 ## Project Overview 
 KahootGPT is a project that leverages ChatGPT to solve Kahoot multiple choice questions. 
+
 Key features:
 - Integrated OCR (Optical Character Recognition) to extract words (questions, choices) from screen.
 - Leveraged OpenAI's API to generate answers for Kahoot quizzes
