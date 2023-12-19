@@ -44,7 +44,7 @@ Key features:
 - OpenAI's ChatGPT: for generating answers based on quiz prompts and choices
 
 ## Configuration
-- The KahootGPt project utilizes the OpenAI API for generating responses. To use the OpenAI API, you need to obtain an API key from OpenAI and configure it in the project.
+- The KahootGPT project utilizes the OpenAI API for generating responses. To use the OpenAI API, you need to obtain an API key from OpenAI and configure it in the project.
 - Obtain an API key from OpenAI by following their documentation.
 - Add OpenAI key to chatgpt-kahoot.py 
 
