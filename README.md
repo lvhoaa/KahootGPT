@@ -18,7 +18,7 @@ Key features:
 - Supported user-friendly interface for usage and timely execution 
 
 ## Guide & Illustration 
-1. At every new question, click the key ctrl+alt+t to start the process
+1. At every new question, bind the keys Ctrl+Alt+t to start the process
 2. Use Pyautogui to capture the full screen, including questions and answer choices
 
 ![image](https://github.com/lvhoaa/KahootChatGPT/assets/87745938/80b3b774-913b-4268-9677-6153eecea146)
@@ -54,5 +54,3 @@ Key features:
 
 ## License
 - This project is licensed under the MIT License. You can find the full license text in the LICENSE file.
-
-
